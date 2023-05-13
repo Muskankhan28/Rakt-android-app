@@ -1,0 +1,6 @@
+Installation Guide:-
+Step 1:-Unzip the Rakt.zip file.
+
+Step 2:-install bluestacks or android studio in your pc.
+
+Step 3:just double click on the rakt.apk file and you are good to go
